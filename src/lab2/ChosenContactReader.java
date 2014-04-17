@@ -40,8 +40,6 @@ public class ChosenContactReader {
             
 
             while (line != null) {
-                
-                
 
                 if (line.equals("Contact")) {
                     contacts.add(counter, new Contact());

@@ -33,7 +33,7 @@ public class StartUp {
             in = new BufferedReader(new FileReader(data));
             String line = in.readLine();
 
-            ArrayList contacts = new ArrayList();
+            ArrayList<Contact> contacts = new ArrayList();
             
 
             while (line != null) {
@@ -87,7 +87,7 @@ public class StartUp {
             if (recordNumber < 0 || recordNumber > contacts.size()) {
                 System.out.println("File may not exist try again");
             } else {
-                Contact printContact = (Contact) contacts.get(recordNumber - 1);
+                Contact printContact =  contacts.get(recordNumber - 1);
                 System.out.println(printContact.getCity());
 
             }

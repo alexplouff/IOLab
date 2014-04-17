@@ -1,15 +1,45 @@
-Alex Plouff (414) 534 4418
-N52 W14418 Aryshire Ct
-Menomonee Falls WI 53051
+Contact
+Name: Alex Plouff
+Number: (414) 534 4418
+Street: N52 W14418 Aryshire Ct
+City: Menomonee Falls 
+State: WI
+Zip: 53051
 
-Jamie Plouff (414) ### ####
-123 S Shore Dr
-Bay View, WI 12345
+Contact
+Name: Jamie Plouff 
+Number: (414) ### ####
+Street: 123 S Shore Dr
+City: Bay View
+State: WI 
+Zip: 12345
 
-Ashley Plouff (414) 534 0638
-321 N Some St 
-Minneapolis MN, 13245
+Contact
+Name: Alex Plouff
+Number: (414) 534 4418
+Street: N52 W14418 Aryshire Ct
+City: Menomonee Falls 
+State: WI
+Zip: 53051
 
-Scott Plouff (414) 322 3244
-N52 W14418 Aryshire Ct
-Menomonee Falls WI, 53051
+Contact
+Name: Ashley Plouff 
+Number: (414) 534 0638
+Street: 321 N Some St 
+City: Minneapolis 
+State: MN
+Zip: 13245
+
+
+
+
+
+Contact
+Name: Scott Plouff 
+Number: (414) 322 3244
+
+Street: N52 W14418 Aryshire Ct
+
+City: Menomonee Falls 
+State: WI 
+Zip: 53051
